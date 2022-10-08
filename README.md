@@ -1,2 +1,2 @@
-# Exercicios_QA
-Exercícios de Teste de Software
+# QA_Exercices
+Testing and QA files for practice.
